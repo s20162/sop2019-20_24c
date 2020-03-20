@@ -1,0 +1,12 @@
+Przed rozpoczęciem upewnij się ,że masz:
+	-obraz maszyny virtualnej
+	-Virtualbox
+
+1. Odpalamy VirtualBox i tworzymy nową maszynę przyciskiem Nowa.
+2. Nadajemy nazwę naszej maszynie, wybieramy rodzaj systemu.
+3. Przydzielamy ilość pamięci dla wirtualnej maszyny.
+4. Wybieramy obraz naszej maszyny z dysku.
+5. Mamy już gotową maszynę wirtualną.
+6. Uruchamiamy maszyne wirtualną.
+
+
