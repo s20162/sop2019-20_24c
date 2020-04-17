@@ -2,6 +2,7 @@ Przed rozpoczęciem upewnij się ,że masz:
 	-obraz maszyny virtualnej
 	-Virtualbox
 
+Konfiguracja VirtualBoxa
 1. Odpalamy VirtualBox i tworzymy nową maszynę przyciskiem Nowa.
 2. Nadajemy nazwę naszej maszynie, wybieramy rodzaj systemu.
 3. Przydzielamy ilość pamięci dla wirtualnej maszyny.
@@ -9,4 +10,20 @@ Przed rozpoczęciem upewnij się ,że masz:
 5. Mamy już gotową maszynę wirtualną.
 6. Uruchamiamy maszyne wirtualną.
 
+Instalacja Systemu
+1.Kliknij 'install'
+2.Wybierz język instalatora
+3.Wybierz strefe czasowa
+4.Wybierz rozłożenia klawiatury
+5.Wpisz nazwę hosta(musi być unikalna w sieci)
+6.Podaj nazwę domeny(opcjonalne)
+7.Wpisz i zapamiętaj hasło roota
+8.Skonfiguruj swojego użytkowniak
+11.Partycjonowanie dysków, wybierz guided
+13.Nie skanuj dysku w poszukiwaniu obrazu płyty
+14.Wybierz serwer(wybierz któryś z tych zlokalizowanych w Polsce)
+15.Nie ustawiaj proxy
+16.Nie zgadzaj sie na 'Package usage survey'
+17.Wybiez SSH
+18.Nie wybieraj GRUBa
 
