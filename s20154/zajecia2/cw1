@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e " \e[34mWitamy w terminalu\e[0m "
+
