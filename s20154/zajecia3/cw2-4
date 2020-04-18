@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for plik in ${ls -a *.c}; do
+	cc $plik -o ${plik%.*}
+done
+
