@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ -e $PWD/config.cfg ]; then
+	echo $PWD
+	./config.cfg
+elif [ $# -gt 0 ]; then
+	./$1
+else
+	echo "Błąd niepodano żadnych argumentów."
+fi
+
+

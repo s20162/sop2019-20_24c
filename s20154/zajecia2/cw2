@@ -1,0 +1,14 @@
+#!/bin/bash
+X=tekst
+echo $X
+bash
+echo $X
+
+# X nie jest exportowane, i niewystępuje w kolejnym wywołaniu basha
+
+X=Tekst dłuższy
+echo $X
+
+# w X przetrzymywany jest tylko Tekst, aby to naprawic trzeba dodac " 
+# aby cała linijka wygładała tak: X="Tekst dłuższy"
+

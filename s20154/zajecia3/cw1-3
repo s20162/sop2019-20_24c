@@ -1,0 +1,11 @@
+#!/bin/bash
+
+NAZWA="$0"
+I=$((${#NAZWA}-3))
+
+if [ ${NAZWA:$I} = ".sh" ]; then
+	echo "plik ma już rozrzerzenie .sh"
+else
+	mv $NAZWA $NAZWA.sh
+fi
+

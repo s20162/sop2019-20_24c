@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for PLIK in $@; do
+	echo -e "\e[34m$PLIK\e[0m"
+	ZAWARTOSC=$(cat $PLIK)
+
+	echo $ZAWARTOSC
+	for I in $(seq ${#ZAWARTOSC} -1 0 ); do
+		echo -e "${ZAWARTOSC:$I:1}\c"
+	done
+done
+
