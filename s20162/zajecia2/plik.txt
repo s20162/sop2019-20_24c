@@ -1,0 +1,8 @@
+razem 24
+-rw-r--r-- 1 adam  0 maj 26 14:01 plik.txt
+-rwxr-xr-x 1 adam  48 maj 26 13:29 Zad1.sh
+-rwxr-xr-x 1 adam  182 maj 26 13:36 zad2.sh
+-rwxr-xr-x 1 adam  97 maj 26 13:40 zad3.sh
+-rwxr-xr-x 1 adam  32 maj 26 13:41 zad4.sh
+-rwxr-xr-x 1 adam  58 maj 26 13:46 zad5.sh
+-rw-r--r-- 1 adam  67 maj 26 14:00 zaddom.sh
