@@ -1,0 +1,21 @@
+instalacja debiana na maszynie virtualnej 
+(mozna wybrac instalator tekstowy albo graficzny itp)
+
+1. wybór jezyka instalacji
+2. wybór lokalizaci(kraju)
+3. wybór rodzaju klawiatury
+4. wpisanie nazwy hosta
+5. wybór nazwy domeny
+6. wybór hasła do administratora (root)
+7. wprowadzenie danych dla użytkownika i wybór loginu i hasła do konta
+8. wybór strefu czasowej
+9. wybór sposobu partycjowania dysku
+10. wybór dysku na którym będzie zainstalowany nowy system
+11. ewentualny podział na partycje
+12. instalator pokaze nam podsumowane informacje na temat naszych wyborów
+13. wybór serwera z którego będą pobierana potrzebne dane 
+14. konfiguracja http proxy (nie trzeba konfigurowac)
+15. wybór nosnika z którego bedzie instalowany system
+16. przebieg instalacji 
+
+GRUB - jest to bootloader (program który umozliwia nam wybór który system operacyjny chcemy uruchomić)
