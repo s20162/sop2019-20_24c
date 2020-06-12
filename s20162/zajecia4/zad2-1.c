@@ -15,6 +15,7 @@ int main(int argc, char **argv) {
             fscanf(inputfile, "%d", &tab[i]);
         }
         fclose(inputfile);
+        printf("ciag w odwrotnej kolejnosci\n");
         for( i=n-1; i>=0; i--) {
             printf("%d \n", tab[i]);
         }
